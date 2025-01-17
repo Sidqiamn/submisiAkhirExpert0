@@ -9,6 +9,7 @@
 -dontwarn com.example.core.domain.Result$Success
 -dontwarn com.example.core.domain.Result
 -dontwarn com.example.core.domain.model.News
+-dontwarn com.example.duplicatepackage.**
 -dontwarn com.example.core.domain.repository.INewsRepository
 -dontwarn com.example.core.domain.usecase.NewsInteractor
 -dontwarn com.example.core.domain.usecase.NewsUseCase
